@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/nft-preview/static/css/main.cca5a1a0.chunk.css",
+    "main.js": "/nft-preview/static/js/main.46a1b0ed.chunk.js",
+    "main.js.map": "/nft-preview/static/js/main.46a1b0ed.chunk.js.map",
+    "runtime-main.js": "/nft-preview/static/js/runtime-main.1a297af0.js",
+    "runtime-main.js.map": "/nft-preview/static/js/runtime-main.1a297af0.js.map",
+    "static/css/2.205d31a8.chunk.css": "/nft-preview/static/css/2.205d31a8.chunk.css",
+    "static/js/2.5ed6d208.chunk.js": "/nft-preview/static/js/2.5ed6d208.chunk.js",
+    "static/js/2.5ed6d208.chunk.js.map": "/nft-preview/static/js/2.5ed6d208.chunk.js.map",
+    "static/js/3.e1025280.chunk.js": "/nft-preview/static/js/3.e1025280.chunk.js",
+    "static/js/3.e1025280.chunk.js.map": "/nft-preview/static/js/3.e1025280.chunk.js.map",
+    "index.html": "/nft-preview/index.html",
+    "static/css/2.205d31a8.chunk.css.map": "/nft-preview/static/css/2.205d31a8.chunk.css.map",
+    "static/css/main.cca5a1a0.chunk.css.map": "/nft-preview/static/css/main.cca5a1a0.chunk.css.map",
+    "static/js/2.5ed6d208.chunk.js.LICENSE.txt": "/nft-preview/static/js/2.5ed6d208.chunk.js.LICENSE.txt",
+    "static/media/Ticket.css": "/nft-preview/static/media/Ticket.9a7edf52.svg",
+    "static/media/PaperAndPatent1.png": "/nft-preview/static/media/PaperAndPatent1.5e8097d3.png",
+    "static/media/ScottDisclosureComposite.png": "/nft-preview/static/media/ScottDisclosureComposite.3261ea75.png",
+    "static/media/StuartDissertationComposite.png": "/nft-preview/static/media/StuartDissertationComposite.4d8d2df7.png",
+    "static/media/friendlysB&W.png": "/nft-preview/static/media/friendlysB&W.3720a92d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a297af0.js",
+    "static/css/2.205d31a8.chunk.css",
+    "static/js/2.5ed6d208.chunk.js",
+    "static/css/main.cca5a1a0.chunk.css",
+    "static/js/main.46a1b0ed.chunk.js"
+  ]
+}
