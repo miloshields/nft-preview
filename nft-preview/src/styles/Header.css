@@ -1,0 +1,8 @@
+.header-wrap{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+.header-underline{
+    width: 80%;
+    border-bottom: 2px solid var(--accent-color);
+}

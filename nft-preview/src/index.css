@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Work+Sans:ital,wght@0,400;0,500;0,600;1,400;1,600&display=swap');
+
+:root{
+    --accent-color: rgb(13,202,240);
+    --display-text: none;
+    --text-align: center;
+}
+@media (min-width: 800px) {
+    :root{
+        --display-text: block;
+        --text-align: left;
+    }
+}
+  
+
+h1,h2,h3,h4,h5,h6,body,p{
+    margin: 0;
+}
+h1,h2,h4,h5,h6{
+    font-family: 'Crimson Text', serif;
+    font-weight: 400;
+}
+body, h3{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 500;
+}
+h3{
+    color: var(--accent-color);
+    font-weight: 700;
+}
+
+h1{
+    font-size: clamp(2rem, 1rem + 5vw, 7rem);
+}
+p{
+    font-size: clamp(1rem, 1rem + 2vw, 1.5rem);
+}
+a{
+    color: var(--accent-color) !important;
+}
+/* for general usage by all elements */
+.centered{
+    display: flex;
+    justify-content: center;
+}
+.flex-vertical{
+    display: flex;
+    flex-direction: column;
+}
+.flex-horizontal{
+    display: flex;
+}
+.flex-evenly{
+    justify-content: space-evenly;
+}

@@ -1,0 +1,53 @@
+@import '../index.css';
+.NFT-contain{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+/* using important to override styling from Bootstrap css */
+.btn{
+    color: white !important;
+    font-family: 'Work Sans', sans-serif !important;
+    font-weight: 500 !important;
+}
+.button-contain{
+    display: flex;
+    justify-content: center;
+}
+.NFT-image{
+    object-fit: contain;
+    height: clamp(13rem, 10rem + 25vw, 25rem);
+    width: auto;
+}
+@media (min-width: 800px) and (max-width: 1200px) {
+    .NFT-contain{
+        flex-direction: row;
+        gap: 5%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    .button-contain{
+        display: block;
+    }
+}
+@media (min-width: 1200px) {
+    .NFT-contain{
+        flex-direction: row;
+        gap: 5%;
+        margin-left: 20%;
+        margin-right: 20%;
+    }
+    .button-contain{
+        display: block;
+    }
+}
+
+.NFT-title{
+    text-align: var(--text-align);
+}
+.content-text{
+    display: var(--display-text);
+    text-align: var(--text-align);
+}
+
