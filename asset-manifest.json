@@ -1,30 +1,33 @@
 {
   "files": {
     "main.css": "/nft-preview/static/css/main.cca5a1a0.chunk.css",
-    "main.js": "/nft-preview/static/js/main.a1837024.chunk.js",
-    "main.js.map": "/nft-preview/static/js/main.a1837024.chunk.js.map",
-    "runtime-main.js": "/nft-preview/static/js/runtime-main.ca024f94.js",
-    "runtime-main.js.map": "/nft-preview/static/js/runtime-main.ca024f94.js.map",
+    "main.js": "/nft-preview/static/js/main.57f34749.chunk.js",
+    "main.js.map": "/nft-preview/static/js/main.57f34749.chunk.js.map",
+    "runtime-main.js": "/nft-preview/static/js/runtime-main.26be9522.js",
+    "runtime-main.js.map": "/nft-preview/static/js/runtime-main.26be9522.js.map",
     "static/css/2.205d31a8.chunk.css": "/nft-preview/static/css/2.205d31a8.chunk.css",
     "static/js/2.a07eafb0.chunk.js": "/nft-preview/static/js/2.a07eafb0.chunk.js",
     "static/js/2.a07eafb0.chunk.js.map": "/nft-preview/static/js/2.a07eafb0.chunk.js.map",
-    "static/js/3.77a2d439.chunk.js": "/nft-preview/static/js/3.77a2d439.chunk.js",
-    "static/js/3.77a2d439.chunk.js.map": "/nft-preview/static/js/3.77a2d439.chunk.js.map",
+    "static/js/3.663b3b8e.chunk.js": "/nft-preview/static/js/3.663b3b8e.chunk.js",
+    "static/js/3.663b3b8e.chunk.js.map": "/nft-preview/static/js/3.663b3b8e.chunk.js.map",
     "index.html": "/nft-preview/index.html",
     "static/css/2.205d31a8.chunk.css.map": "/nft-preview/static/css/2.205d31a8.chunk.css.map",
     "static/css/main.cca5a1a0.chunk.css.map": "/nft-preview/static/css/main.cca5a1a0.chunk.css.map",
     "static/js/2.a07eafb0.chunk.js.LICENSE.txt": "/nft-preview/static/js/2.a07eafb0.chunk.js.LICENSE.txt",
+    "static/media/GenesisSurety.png": "/nft-preview/static/media/GenesisSurety.2e32dbd0.png",
     "static/media/Ticket.css": "/nft-preview/static/media/Ticket.9a7edf52.svg",
     "static/media/PaperAndPatent1.png": "/nft-preview/static/media/PaperAndPatent1.5e8097d3.png",
+    "static/media/PaperAndPatent2.png": "/nft-preview/static/media/PaperAndPatent2.b7d1294d.png",
+    "static/media/PaperAndPatent3.png": "/nft-preview/static/media/PaperAndPatent3.5be498d8.png",
     "static/media/ScottDisclosureComposite.png": "/nft-preview/static/media/ScottDisclosureComposite.3261ea75.png",
     "static/media/StuartDissertationComposite.png": "/nft-preview/static/media/StuartDissertationComposite.4d8d2df7.png",
     "static/media/friendlysB&W.png": "/nft-preview/static/media/friendlysB&W.3720a92d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca024f94.js",
+    "static/js/runtime-main.26be9522.js",
     "static/css/2.205d31a8.chunk.css",
     "static/js/2.a07eafb0.chunk.js",
     "static/css/main.cca5a1a0.chunk.css",
-    "static/js/main.a1837024.chunk.js"
+    "static/js/main.57f34749.chunk.js"
   ]
 }
